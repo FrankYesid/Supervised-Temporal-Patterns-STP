@@ -1,1 +1,0 @@
-# Supervised Temporal Patterns STP
